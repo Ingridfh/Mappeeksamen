@@ -12,7 +12,8 @@
     "references.html": "3e179253"
   },
   "01-reliability-tools.qmd": {
-    "01-reliability-tools.html": "4146714d"
+    "01-reliability-tools.html": "4146714d",
+    "01-reliability-tools.tex": "dd1dcd94"
   },
   "02-regression-models.qmd": {
     "02-regression-models.html": "db1cb74b"
